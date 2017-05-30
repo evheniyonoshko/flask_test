@@ -1,6 +1,6 @@
 # flask_test
 
-A first clone project from repository, run 'git clone https://github.com/evheniyonoshko/flask_test.git'
+At first clone project from repository, run 'git clone https://github.com/evheniyonoshko/flask_test.git'
 
 Then, create virtualenv
 
